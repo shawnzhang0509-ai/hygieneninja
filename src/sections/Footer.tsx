@@ -29,18 +29,18 @@ export default function Footer() {
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <a
-                href="mailto:info@hygiene.ninja"
+                href="mailto:chenxiuxiu1220@gmail.com"
                 className="inline-block px-8 py-4 text-sm font-bold tracking-wider uppercase transition-all duration-300 hover:brightness-110 hover:scale-105"
                 style={{ background: '#FFC107', color: '#002855', borderRadius: '10px', fontFamily: 'Inter, sans-serif' }}
               >
                 {t('立即预约', 'Book Now')}
               </a>
               <a
-                href="tel:0800-NINJA-CLEAN"
+                href="tel:0212986511"
                 className="inline-block px-8 py-4 text-sm font-semibold tracking-wider uppercase transition-all duration-300 hover:bg-white/20"
                 style={{ border: '1px solid rgba(255,255,255,0.3)', color: 'white', borderRadius: '10px', fontFamily: 'Inter, sans-serif' }}
               >
-                0800-NINJA-CLEAN
+                0212986511
               </a>
             </div>
           </div>
@@ -116,10 +116,10 @@ export default function Footer() {
             </h4>
             <ul className="space-y-3">
               <li className="text-sm" style={{ color: 'rgba(255,255,255,0.5)', fontFamily: 'Inter, sans-serif' }}>
-                info@hygiene.ninja
+                chenxiuxiu1220@gmail.com
               </li>
               <li className="text-sm font-semibold" style={{ color: 'white', fontFamily: 'Inter, sans-serif' }}>
-                0800-NINJA-CLEAN
+                0212986511
               </li>
               <li className="text-sm" style={{ color: 'rgba(255,255,255,0.5)', fontFamily: 'Inter, sans-serif' }}>
                 hygiene.ninja
